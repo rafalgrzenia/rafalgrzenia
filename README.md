@@ -1,10 +1,10 @@
-<div>
+<div style="margin-bottom: 0;" id="user-content-toc">
   <ul>
     <summary><h1 style="display: inline-block;margin-bottom: 0;">Hi! 👋 My name is Rafal</h1></summary>
   </ul>
 </div>
 
-<div>
+<div style="margin-bottom: 0;" id="user-content-toc">
   <ul>
     <summary><h1 style="display: inline-block;margin-bottom: 0;">Front-End Developer</h1></summary>
   </ul>
