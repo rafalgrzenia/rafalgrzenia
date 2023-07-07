@@ -1,14 +1,12 @@
-
-
-<div id="user-content-toc">
+<div>
   <ul>
-    <summary><h1 style="display: inline-block;">Hi! 👋 My name is Rafal</h1></summary>
+    <summary><h1 style="display: inline-block;margin-bottom: 0;">Hi! 👋 My name is Rafal</h1></summary>
   </ul>
 </div>
 
-<div id="user-content-toc">
+<div>
   <ul>
-    <summary><h1 style="display: inline-block;">Front-End Developer</h1></summary>
+    <summary><h1 style="display: inline-block;margin-bottom: 0;">Front-End Developer</h1></summary>
   </ul>
 </div>
 
