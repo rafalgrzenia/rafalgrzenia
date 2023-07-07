@@ -1,14 +1,6 @@
-<div style="margin: 0;" id="user-content-toc">
-  <ul>
-    <summary><h1 style="display: inline-block;margin-bottom: 0; margin: 0;">Hi! 👋 My name is Rafal</h1></summary>
-  </ul>
-</div>
+<h1 style="border: none; padding: 0; margin: 0">Hi! 👋 My name is Rafal</h1>
 
-<div style="margin: 0;" id="user-content-toc">
-  <ul>
-    <summary><h1 style="display: inline-block; margin: 0;">Front-End Developer</h1></summary>
-  </ul>
-</div>
+<h2 style="border: none; padding-top: 8px; margin: 0 0 5px 0;">Front-End Developer</h2>
 
 <ul style="list-style: none">
 <li>🌎 I'm based in Cracow, Poland</li>
