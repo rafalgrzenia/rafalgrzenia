@@ -20,6 +20,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,figma,git,github,vscode)](https://skillicons.dev)
 
+</br>
+
 ## Next to learn
 
 [![My Skills](https://skillicons.dev/icons?i=ts,sass,tailwind,aws)](https://skillicons.dev)
