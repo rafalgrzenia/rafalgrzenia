@@ -1,6 +1,6 @@
-<h1 style="border: none; margin-bottom: 5px;"> Hi! 👋 My name is Rafal</h1>
+## Hi! 👋 My name is Rafal
 
-<h1 style="border: none; font-size: 22px; margin-bottom: 5px;"> Front-End Developer </h1>
+## Front-End Developer
 
 <ul style="list-style: none">
 <li>🌎 I'm based in Cracow, Poland</li>
