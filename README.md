@@ -1,12 +1,16 @@
-## Hi! 👋 My name is Rafal
+
 
 <div id="user-content-toc">
   <ul>
-    <summary><h1 style="display: inline-block;">NO LINE</h1></summary>
+    <summary><h1 style="display: inline-block;">Hi! 👋 My name is Rafal</h1></summary>
   </ul>
 </div>
 
-## Front-End Developer
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">Front-End Developer</h1></summary>
+  </ul>
+</div>
 
 <ul style="list-style: none">
 <li>🌎 I'm based in Cracow, Poland</li>
