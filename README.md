@@ -2,7 +2,6 @@
 
 **`Front-End Developer`**
 
-
 - 🌎 I'm based in Cracow, Poland
 
 - ✉️ You can contact me at rafalgrzenia@gmail.com
@@ -15,6 +14,7 @@
 
 - 🙏🏻 Just a cool guy
 
+</br>
 
 ## Skills
 
