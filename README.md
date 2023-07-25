@@ -4,7 +4,7 @@
 
 - 🌎 I'm based in Cracow, Poland
 
-- ✉️ You can contact me at rafalgrzenia@gmail.com
+- ✉️ You can contact me at rafalgrzenia96@gmail.com
 
 - 🧠 On my never ending journey of learning new things
 
