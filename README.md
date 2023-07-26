@@ -24,5 +24,5 @@
 
 ## Next to learn
 
-[![My Skills](https://skillicons.dev/icons?i=ts,sass,tailwind,nextjs,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,sass,jest,tailwind,nextjs)](https://skillicons.dev)
 
