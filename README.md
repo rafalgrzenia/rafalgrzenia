@@ -14,7 +14,6 @@
 
 - 🙏🏻 Just a cool guy
 
-</br>
 
 ## Skills
 
@@ -22,7 +21,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,vite,figma,git,github)](https://skillicons.dev)
 
-</br>
 
 ## Next to learn
 
