@@ -21,6 +21,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,vite,figma,wordpress,git)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
+
 
 ## Next to learn
 
