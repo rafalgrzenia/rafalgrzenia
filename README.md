@@ -8,7 +8,7 @@
 
 - 🧠 On my never ending journey of learning new things
 
-- 🔍 Looking for my first job as a Front-End Developer
+- 🔍 Looking for opportunity to develop as a Front-End Developer
 
 - ⚙️ Currently working with JavaScript and React
 
