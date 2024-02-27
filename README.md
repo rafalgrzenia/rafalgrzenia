@@ -26,5 +26,5 @@
 
 ## Next to learn
 
-[![My Skills](https://skillicons.dev/icons?i=ts,jest,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,vitest,nextjs)](https://skillicons.dev)
 
