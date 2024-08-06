@@ -1,6 +1,6 @@
 # Hi! 👋 My name is Rafal
 
-**`Front-End Developer`**
+**`Web Developer`**
 
 - 🌎 I'm based in Cracow, Poland
 
