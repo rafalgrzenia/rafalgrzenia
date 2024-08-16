@@ -4,8 +4,6 @@
 
 - 🌎 I'm based in Cracow, Poland
 
-- ✉️ You can contact me at rafalg.dev@gmail.com
-
 - 🧠 On my never ending journey of learning new things
 
 - 🔍 Looking for opportunity to develop as a Front-End Developer
