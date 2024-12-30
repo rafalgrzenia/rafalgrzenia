@@ -6,9 +6,9 @@
 
 - 🧠 On my never ending journey of learning new things
 
-- 🔍 Looking for opportunity to develop as a Front-End Developer
+- 🔍 Looking for opportunity to develop as a Web Developer
 
-- ⚙️ Currently working with JavaScript and React
+- ⚙️ Currently working with JavaScript, React and WordPress
 
 - 🙏🏻 Just a cool guy
 
