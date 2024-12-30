@@ -1,4 +1,4 @@
-# Hi! 👋 My name is Rafal
+# 👋 Hi! My name is Rafal
 
 **`Web Developer`**
 
