@@ -15,11 +15,11 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,vite,figma,wordpress,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,vite,figma,wordpress)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=materialui,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,materialui,npm)](https://skillicons.dev)
 
 
 ## Next to learn
