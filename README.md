@@ -10,7 +10,7 @@
 
 - ⚙️ Currently working with JavaScript, React and WordPress
 
-- 🙏🏻 Just a cool guy
+- 🙏🏻 Just a cool guyy
 
 
 ## Skills
