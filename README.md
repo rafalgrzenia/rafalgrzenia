@@ -6,7 +6,7 @@
 
 - 🧠 On my never ending journey of learning new things
 
-- 🔍 Looking for opportunity to develop as a Web Developer
+- 🔍 Looking for an opportunity to develop as a Web Developer
 
 - ⚙️ Currently working with JavaScript, React and WordPress
 
