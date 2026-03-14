@@ -1,8 +1,9 @@
 # 👋 Hey It's me Rafaello
 
-## What do i do here
+## How am I
 
-- 💆🏻 I'm just a chill dude who codes from time to time
+💆🏻 I'm just a chill dude who codes from time to time
+🐾 I really love dogs, especially Dachsunds
 
 
 
