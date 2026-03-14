@@ -2,8 +2,8 @@
 
 ## How am I
 
-💆🏻 I'm just a chill dude who codes from time to time
-🐾 I really love dogs, especially Dachsunds
+- 💆🏻 I'm just a chill dude who codes from time to time
+- 🐾 I really love dogs, especially Dachsunds
 
 
 
