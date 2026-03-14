@@ -1,4 +1,10 @@
-# 👋 I'm just a chill dude who codes sometimes
+# 👋 Hey It's me Rafaello
+
+## What do i do here
+
+- I'm just a chill dude who codes for time to time
+
+
 
 
 ## Skills
