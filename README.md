@@ -1,6 +1,4 @@
-# 👋 Rafal
-
-- 🙏🏻 Just a cool guyy
+# 👋 I'm just a chill dude who codes sometimes
 
 
 ## Skills
