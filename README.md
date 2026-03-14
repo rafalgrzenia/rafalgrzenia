@@ -2,7 +2,7 @@
 
 ## What do i do here
 
-- I'm just a chill dude who codes for time to time
+- 💆🏻 I'm just a chill dude who codes from time to time
 
 
 
